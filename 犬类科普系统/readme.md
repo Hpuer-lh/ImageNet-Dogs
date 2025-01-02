@@ -32,7 +32,7 @@ pip install torch torchvision pandas opencv-python numpy gradio erniebot Pillow
 #### 使用步骤
 
 1. **启动系统**：
-   - 运行 `AIstudio.py` 文件，启动 Gradio Web 界面。
+   - 运行 `AIstudio.py` 文件，启动 Gradio Web 界面。（在此之前，你需要把model.pth放到此文件夹下）
 
 2. **上传图片**：
    - 在界面中找到“犬类图片投放处”区域，点击上传按钮，选择您要识别的犬类图片。
